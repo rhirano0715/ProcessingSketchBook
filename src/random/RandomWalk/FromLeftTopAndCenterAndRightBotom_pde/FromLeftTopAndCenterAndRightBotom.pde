@@ -1,11 +1,7 @@
-// 速度によるランダムウォーク（たくさんのエージェント）
-
 int max;
 
-// エージェントの位置
 float[] xs;
 float[] ys;
-// エージェントの速度
 float[] vxs;
 float[] vys;
 
